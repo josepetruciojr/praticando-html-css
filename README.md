@@ -1,4 +1,4 @@
-<h1>Curso de HTML5 e CSS3 - Módulo 1</h1>
+<h1>Praticando HTML5 e CSS3 - Módulo 1</h1>
 
 <h2>São os primeiros passos no desenvolvimento web! &#x1F60E;</h2>
 <div>
